@@ -1,6 +1,6 @@
-# PyFlows
+# JavaFlows
 
-## Using fine-tuned Mistral and DeepSeek models to detect flaws in Python code and produce refactored versions of the code.
+## Using fine-tuned Mistral and DeepSeek models to detect flaws in Java code and produce refactored versions of the code.
 
 ## Requirements
 
@@ -28,7 +28,7 @@ The programs use Hugging Face Transformers and PEFT to load the Mistral or DeepS
 
 The repository provides inference programs for:
 
-- **Python** code analysis and refactoring
+- **Java** code analysis and refactoring
 - **Mistral-based** and **DeepSeek-Coder-based** fine-tuned models
 - **LoRA adapter** and **full-model** inference
 
